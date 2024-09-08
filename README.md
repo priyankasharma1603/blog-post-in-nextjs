@@ -1,4 +1,4 @@
-Here's a creative README file with emojis and detailed setup and run instructions for your blog platform project:
+
 
 ---
 
